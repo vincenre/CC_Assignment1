@@ -7,7 +7,7 @@ The CSS is in the static folder because flask requires all static files like CSS
 
 The html files all go inside the templates folder. The program is a simple program to check whether a number is a palindrome or no
 
-I have setup WSGI but could not setup NGINX. 
+I have setup WSGI on port 8000 but could not setup NGINX. 
 
 References:
 www.stackoverflow.com
